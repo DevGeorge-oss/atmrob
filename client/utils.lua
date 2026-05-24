@@ -1,5 +1,5 @@
 --[[
-    CLIENT UTILS
+    CLIENT UTILS v1.0.0
     ─────────────────────────────────────────────────────────────
     Rope texture management helpers.
     GTA requires rope textures to be loaded before any rope
