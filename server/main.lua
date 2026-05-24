@@ -1,4 +1,12 @@
 --[[
+    atmrob — ATM Robbery
+    Author:  DevGbag
+    GitHub:  https://github.com/DevGbag
+    Org:     https://github.com/DevGeorge-oss
+    License: MIT
+]]
+
+--[[
     SERVER MAIN — ATM ROBBERY
     ─────────────────────────────────────────────────────────────
     All qbx_core interactions use direct exports per docs:

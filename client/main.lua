@@ -1,5 +1,13 @@
 --[[
-    CLIENT MAIN — ATM ROBBERY v1.0.0
+    atmrob — ATM Robbery
+    Author:  DevGbag
+    GitHub:  https://github.com/DevGbag
+    Org:     https://github.com/DevGeorge-oss
+    License: MIT
+]]
+
+--[[
+    CLIENT MAIN — ATM ROBBERY
     ─────────────────────────────────────────────────────────────
     TWO METHODS:
 

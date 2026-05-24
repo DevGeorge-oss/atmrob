@@ -3,6 +3,7 @@ lua54 'yes'
 game 'gta5'
 
 name        'atmrob'
+author      'DevGbag'
 description 'ATM Robbery — Qbox / ox_inventory / sleepless_interact'
 version     '1.0.0'
 

@@ -69,7 +69,7 @@ Config.Hack = {
 Config.Drill = {
     Duration = 5000,           -- drilling progress bar (ms)
     Minigame = {
-        difficulty = { 'meduim', 'hard', 'hard' },
+        difficulty = { 'easy', 'easy', 'medium' },
         inputs     = { 'w', 'a', 's', 'd' },
     },
 }
