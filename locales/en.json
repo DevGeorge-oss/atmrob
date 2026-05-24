@@ -1,0 +1,20 @@
+{
+    "hack_atm_label": "Hack ATM",
+    "drill_atm_label": "Drill & Rope ATM",
+    "pick_up_cash": "Pick up Cash",
+    "dispatch_hack": "ATM Hack in progress",
+    "dispatch_drillrope": "ATM Robbery in progress \u2014 vehicle involved",
+    "wait_robbery": "You must wait before attempting another robbery.",
+    "not_enough_police": "Not enough police in the city.",
+    "failed_robbery": "You failed the robbery attempt.",
+    "no_items_drillrope": "You need a drill AND rope to attempt this.",
+    "server_pickup_cash": "You collected $%s",
+    "drilling_atm": "Drilling ATM...",
+    "initializing_hack": "Initializing Hack...",
+    "rope_attached": "Rope attached. Now attach the other end to a vehicle.",
+    "attach_rope_to_vehicle": "Attach Rope to Vehicle",
+    "rope_vehicle_attached": "Drive forward to rip the ATM loose.",
+    "atm_detached": "ATM ripped loose! Rob it now.",
+    "rob_detached_atm": "Rob ATM",
+    "rope_robbery_failed": "The rope snapped. Robbery failed."
+}
